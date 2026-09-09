@@ -1,5 +1,7 @@
 # Mermail Agent Skills and Plugin
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
 Official Mermail workflows for Codex, Claude Code, Cursor, and other Agent Skills-compatible clients. The plugin connects to the hosted Mermail MCP server for agent-inbox provisioning, verification mail, inbox management, email delivery, workspace administration, task triage, mailbox-agent workflows, and Scheduling / GTM / Support / x402 agent personas.
 
 ## Install portable skills
