@@ -4,10 +4,6 @@
 
 Official Mermail workflows for Codex, Claude Code, Cursor, and other Agent Skills-compatible clients. The plugin connects to the hosted Mermail MCP server for agent-inbox provisioning, verification mail, inbox management, email delivery, workspace administration, task triage, mailbox-agent workflows, and Scheduling / GTM / Support / x402 agent personas.
 
-## Related agent-economy infrastructure
-
-Mermail's inbox and verification workflows are useful for autonomous agents that participate in external task and bounty systems. [RustChain](https://rustchain.org) is a related agent-economy network where durable agent identity, task evidence, and payout workflows provide a practical integration context for these skills.
-
 ## Install portable skills
 
 ```bash
